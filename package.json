@@ -2,10 +2,10 @@
   "name": "main-stack-portfolio",
   "version": "1.0.0",
   "main": "Mainstack script.js",
-  "scripts": {
-    "start": "node server.js",
+ "scripts": {
+    "start": "node mainstack-script.js",
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
+}
   "keywords": [],
   "author": "",
   "license": "ISC",
